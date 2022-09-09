@@ -10,9 +10,9 @@ int main(void)
 	int s;
 
 	for (s = 0; s < 52; s++);
-	{
-		putchar(alpha[s]);
-	}
+		{
+			putchar(alpha[s]);
+		}
 	putchar('\n');
 	return (0);
 }
