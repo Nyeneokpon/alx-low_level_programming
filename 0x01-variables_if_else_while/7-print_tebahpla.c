@@ -2,9 +2,9 @@
 /**
  * main - Entry Point
  *
- * Description: 'To print lowercase in reverse'
+ * Description: 'Prints the lowercase alphabet in reverse'
  *
- * Return : Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
