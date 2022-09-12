@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
  * main - Entry Point
- * Description: "a program that prints all possible combinations of single-digit numbers"
+ * Description: "print all possible combinations of single-digit numbers"
  *
  * Return : Always 0 (Success)
  */
-int main(void)
+void main(void)
 {
 	int num;
 
