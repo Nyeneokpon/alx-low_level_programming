@@ -8,7 +8,7 @@ char *move(char *s2);
  * Return: 1 if the strings are identical and 0 if not
  */
 
-int wildcmp(char *s1, char *s2);
+int wildcmp(char *s1, char *s2)
 {
 	/**
 	 * this is going to be a sum of return values
